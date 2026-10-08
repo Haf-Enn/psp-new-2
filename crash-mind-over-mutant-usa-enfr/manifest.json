@@ -1,0 +1,611 @@
+{
+  "name": "Crash - Mind over Mutant (USA) (EnFr)",
+  "system": "psp",
+  "file": "crash-mind-over-mutant-usa-enfr.zip",
+  "size": 1249220863,
+  "md5": "889d8735d452f513e4e6b05bcf0bfb53",
+  "uncompressedSize": 1576468480,
+  "partSize": 10485760,
+  "parts": [
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part000",
+      "size": 10485760,
+      "md5": "7fb66f1cb69b1b36a03488fc3f51ec5e"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part001",
+      "size": 10485760,
+      "md5": "e87c02757a7770b1d068bf2fa74d585f"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part002",
+      "size": 10485760,
+      "md5": "3d7f87c1c6c9d9e5063d41b9f91a4724"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part003",
+      "size": 10485760,
+      "md5": "2a26b5f1d35fb59adaa90902b70dd10e"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part004",
+      "size": 10485760,
+      "md5": "7e792bf9a8e4ab3f3024089d6aa05e65"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part005",
+      "size": 10485760,
+      "md5": "9ac285ec4f577072850cb3bc16a1a5cb"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part006",
+      "size": 10485760,
+      "md5": "52577dd08e18c789427be736b5fd748f"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part007",
+      "size": 10485760,
+      "md5": "34ba7f0bc684df028f8c7b9ea9c3e72c"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part008",
+      "size": 10485760,
+      "md5": "3afea7a027582dc7153dd69d281a40c6"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part009",
+      "size": 10485760,
+      "md5": "f012b804445c351b20548f1736b07b2f"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part010",
+      "size": 10485760,
+      "md5": "3a4fe8557855c50d32bd79fc39fb8e15"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part011",
+      "size": 10485760,
+      "md5": "ca68673825726a9336154d0043e55900"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part012",
+      "size": 10485760,
+      "md5": "9e004d154aaddaecf51fe9282026cccd"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part013",
+      "size": 10485760,
+      "md5": "f66edaab6246a5ad435ba1a9b9eeb236"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part014",
+      "size": 10485760,
+      "md5": "675f4ce23d5ab9a75320ec93ede3ec79"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part015",
+      "size": 10485760,
+      "md5": "dacab877d6d66e613805f6d5f38db3bc"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part016",
+      "size": 10485760,
+      "md5": "3a988ef7b3f0df6aed26831b01bf00e8"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part017",
+      "size": 10485760,
+      "md5": "331594b208fa473dc3db01030b2781b2"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part018",
+      "size": 10485760,
+      "md5": "fb9ec1475c9ea26d1b72c394b1305b50"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part019",
+      "size": 10485760,
+      "md5": "4ffd24d2e64920c4034178ed4a43e456"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part020",
+      "size": 10485760,
+      "md5": "e729b8dd63ee477b3c9d60d7306cdd9d"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part021",
+      "size": 10485760,
+      "md5": "75def5df016bc0adac24eb565e42b27c"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part022",
+      "size": 10485760,
+      "md5": "df18f0c772671f9b635ae20c1eba9b0d"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part023",
+      "size": 10485760,
+      "md5": "78f6348de63639e90dbd978cce41418f"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part024",
+      "size": 10485760,
+      "md5": "727f6e2fdaf64f3b4019f60d74ac4dfe"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part025",
+      "size": 10485760,
+      "md5": "73ed21e46a27b5b13bd71ced86f8208f"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part026",
+      "size": 10485760,
+      "md5": "00657c7eca4eb898d627f86e90c26663"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part027",
+      "size": 10485760,
+      "md5": "3543ced86ac121c86be47b36fce0321d"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part028",
+      "size": 10485760,
+      "md5": "7708f693bff63e9d17960e890d5df971"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part029",
+      "size": 10485760,
+      "md5": "6d5f4d427e5e2717fab4c1106148ce3e"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part030",
+      "size": 10485760,
+      "md5": "adc012080a69074ab13e8a3c45e0e960"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part031",
+      "size": 10485760,
+      "md5": "968da550897823f3eabb01a7fce29cc4"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part032",
+      "size": 10485760,
+      "md5": "92578b366be50cabab93db814b86ed42"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part033",
+      "size": 10485760,
+      "md5": "acd01e201f07f798c9f43923932fb096"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part034",
+      "size": 10485760,
+      "md5": "13e33dbba1b3ab5590e38f1dd6de1fbd"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part035",
+      "size": 10485760,
+      "md5": "674daeb067c1a1b29a91baa7dec7e369"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part036",
+      "size": 10485760,
+      "md5": "576944ecb8502d425c9aefd80e30f1ad"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part037",
+      "size": 10485760,
+      "md5": "8a0dcf76df05263535ac429ee62e31a6"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part038",
+      "size": 10485760,
+      "md5": "92901ad07d29028160d3174df15293cf"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part039",
+      "size": 10485760,
+      "md5": "e3c76fd2f7e0897ec287578c215b9033"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part040",
+      "size": 10485760,
+      "md5": "b641e08723d081c1d30d6a91a47d4c6c"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part041",
+      "size": 10485760,
+      "md5": "2ab2a631764dfbe17f0eaa984b12f99f"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part042",
+      "size": 10485760,
+      "md5": "cd05128bbaecaa2bb263046b90883b9a"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part043",
+      "size": 10485760,
+      "md5": "01c73fea33f9bce1800500519391a523"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part044",
+      "size": 10485760,
+      "md5": "70b9847b301e4b1a0e8a1c8742616c38"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part045",
+      "size": 10485760,
+      "md5": "7ba8650b954bb840e5823ca09247b91c"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part046",
+      "size": 10485760,
+      "md5": "a12b0d93c5f895c2eaaa7b5b971c285d"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part047",
+      "size": 10485760,
+      "md5": "50ad60c2bc43b898278b66fd66febef0"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part048",
+      "size": 10485760,
+      "md5": "cff8284b160ccdaa28dbd011056a04f7"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part049",
+      "size": 10485760,
+      "md5": "42cdb353e99ce78ea50f8c91382b3d9f"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part050",
+      "size": 10485760,
+      "md5": "cbe2ce74f3d601776a1782125589c5f7"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part051",
+      "size": 10485760,
+      "md5": "cdb1cc6f3e706f5ae535961db8751858"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part052",
+      "size": 10485760,
+      "md5": "e53bad2c56be8e3797e1278f9e92537c"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part053",
+      "size": 10485760,
+      "md5": "f2230b5e3b4381905572c85e283c9bc3"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part054",
+      "size": 10485760,
+      "md5": "928bc34d47ddf9f249989c1672b3233d"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part055",
+      "size": 10485760,
+      "md5": "dddac1ac8be3d17bc4342bd56b73015f"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part056",
+      "size": 10485760,
+      "md5": "ececef3abc632b91ffbb2dc429ac8cf8"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part057",
+      "size": 10485760,
+      "md5": "fc684c3600ed2f63d1c7dd32a72b7445"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part058",
+      "size": 10485760,
+      "md5": "977cafa290d7ac1a36772f02414af00c"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part059",
+      "size": 10485760,
+      "md5": "19dacfb8c9c3054d08d2602c45a10f82"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part060",
+      "size": 10485760,
+      "md5": "0c2dc73d81cf742d3dd8f95533a39d58"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part061",
+      "size": 10485760,
+      "md5": "e91c465870ef2f36ec6d11cfe330f42e"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part062",
+      "size": 10485760,
+      "md5": "5153710680932ec90574428181829b53"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part063",
+      "size": 10485760,
+      "md5": "3f1e3581c5c829d800c4e4b04cc2934a"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part064",
+      "size": 10485760,
+      "md5": "04903df6f8023c46b6584722fd177dde"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part065",
+      "size": 10485760,
+      "md5": "c97e52150a96a029fdcda96f79a9371f"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part066",
+      "size": 10485760,
+      "md5": "984beb26c632cd8b143eed01976b4af8"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part067",
+      "size": 10485760,
+      "md5": "ebedcb5083df6855bf71f8febf41e73a"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part068",
+      "size": 10485760,
+      "md5": "0df981a3aaa5656fe6e3b136b7a78bb0"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part069",
+      "size": 10485760,
+      "md5": "71d1e8e9c67801ef006ff85bffc479c2"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part070",
+      "size": 10485760,
+      "md5": "95425d5b1c83077230ac559060d8afa8"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part071",
+      "size": 10485760,
+      "md5": "d6a9247f9b2fe94505289f119cb12466"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part072",
+      "size": 10485760,
+      "md5": "aff15c0742913f74323a7a6a471e25e4"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part073",
+      "size": 10485760,
+      "md5": "497fa59fc31a2d46f70d4bfab4b3e4d4"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part074",
+      "size": 10485760,
+      "md5": "db137a29a361bb35a0378a0ee2733ac2"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part075",
+      "size": 10485760,
+      "md5": "835feef16c60744bab32f14468c553a9"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part076",
+      "size": 10485760,
+      "md5": "b3c3ec27c9d261092e624e2de37a5222"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part077",
+      "size": 10485760,
+      "md5": "86090c0297f5dc9d9c86041a2e2dbebf"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part078",
+      "size": 10485760,
+      "md5": "40a809e7b12026b4ed5e45faafe4437c"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part079",
+      "size": 10485760,
+      "md5": "a42d33c5e5d73a8d1527d6311ad565da"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part080",
+      "size": 10485760,
+      "md5": "e2e92bbdfd14fbfbd5f8c46e8bafa241"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part081",
+      "size": 10485760,
+      "md5": "8118202dc4c5cca2a5f2af2262030b32"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part082",
+      "size": 10485760,
+      "md5": "7a45bd369e16aed40f77346097d45e16"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part083",
+      "size": 10485760,
+      "md5": "00e1c67109c8a2bcdab2b6d13a26a28d"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part084",
+      "size": 10485760,
+      "md5": "aea3c36a3d5d57122ba4b23c8ffc2b7d"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part085",
+      "size": 10485760,
+      "md5": "86ebdadf2850c681025f22e51839213f"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part086",
+      "size": 10485760,
+      "md5": "7f2dc54ae0577d781dcbb86d394e9688"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part087",
+      "size": 10485760,
+      "md5": "c81ad6f8d81b565312eb4586188a9a43"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part088",
+      "size": 10485760,
+      "md5": "11bbf10915b80a694eaeec9bbe904631"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part089",
+      "size": 10485760,
+      "md5": "7b610b39216fa025e3aff32bf706fcb1"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part090",
+      "size": 10485760,
+      "md5": "f8d29b0fc418599801d6d544c4786c07"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part091",
+      "size": 10485760,
+      "md5": "a2e026d91e1b347b58365efa3c6d6a92"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part092",
+      "size": 10485760,
+      "md5": "5e27e5046f9e073b25e59c3048cbe050"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part093",
+      "size": 10485760,
+      "md5": "7aba975deff21fa2509c7ead8d6b32bb"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part094",
+      "size": 10485760,
+      "md5": "27a9bd54b77707489cb18360de1b7725"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part095",
+      "size": 10485760,
+      "md5": "44e0faadc7df21003931d1ca136c6699"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part096",
+      "size": 10485760,
+      "md5": "e671fde7315ca4d7e38671b8698e885b"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part097",
+      "size": 10485760,
+      "md5": "57e2c0238b74bcaf55e632a4ca75eff8"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part098",
+      "size": 10485760,
+      "md5": "64d2593a8f9ae05e23702e97aecd25f6"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part099",
+      "size": 10485760,
+      "md5": "b0e7e64efeeef9a4eebd8fff1682f40a"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part100",
+      "size": 10485760,
+      "md5": "a09c0a346a94d19482c60978d6e296b1"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part101",
+      "size": 10485760,
+      "md5": "d4723554898e5cd919fd77153a42471a"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part102",
+      "size": 10485760,
+      "md5": "a2c520c634f7ff9856badbfa1933a276"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part103",
+      "size": 10485760,
+      "md5": "59de7ac18df6570e7047308f5631877c"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part104",
+      "size": 10485760,
+      "md5": "3eb323a7d3cb54ef8d3b366603447213"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part105",
+      "size": 10485760,
+      "md5": "7d3b0de8b2a179a6759d1d03f96cb8cd"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part106",
+      "size": 10485760,
+      "md5": "80510ec0f5741191767d6fc2eddb9208"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part107",
+      "size": 10485760,
+      "md5": "afeae6bdf61bbf853fc6a2961e3094b1"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part108",
+      "size": 10485760,
+      "md5": "875fb516db0f241f3b181760baa6867a"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part109",
+      "size": 10485760,
+      "md5": "f113a7d209ed78101a22ab36db31dcc6"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part110",
+      "size": 10485760,
+      "md5": "c9b64a4cd6460e3094d9c2ce9bd9b174"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part111",
+      "size": 10485760,
+      "md5": "d43e8aa4f2ff200d4e9f7b23c1b1ca09"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part112",
+      "size": 10485760,
+      "md5": "462286b7e4875d2d8d37d3949c7a4a6c"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part113",
+      "size": 10485760,
+      "md5": "5758b519b5bd07a00ee0c076e2350798"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part114",
+      "size": 10485760,
+      "md5": "a77e8f6ff7fe38c68c458bc316bf2ee3"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part115",
+      "size": 10485760,
+      "md5": "7a57d31b45e1e9d63e9037cfe6f54a31"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part116",
+      "size": 10485760,
+      "md5": "eff6491962a746d31580304e5df29ffa"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part117",
+      "size": 10485760,
+      "md5": "c77ee6267ed2951efff143ec1686923b"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part118",
+      "size": 10485760,
+      "md5": "1730ff94e6239e6a2da2c1934de1e8a6"
+    },
+    {
+      "name": "crash-mind-over-mutant-usa-enfr.zip.part119",
+      "size": 1415423,
+      "md5": "7d4017af1c694f59f7eed5a4b439cb62"
+    }
+  ]
+}
