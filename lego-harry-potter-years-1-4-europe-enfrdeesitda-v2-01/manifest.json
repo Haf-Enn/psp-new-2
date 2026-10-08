@@ -1,0 +1,591 @@
+{
+  "name": "LEGO Harry Potter - Years 1-4 (Europe) (EnFrDeEsItDa) (v2.01)",
+  "system": "psp",
+  "file": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip",
+  "size": 1209719502,
+  "md5": "ea6c9446d513324479bb0995066ffb75",
+  "uncompressedSize": 1426784256,
+  "partSize": 10485760,
+  "parts": [
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part000",
+      "size": 10485760,
+      "md5": "3fcfa7f25c365b6cab13dcd31f0d8bc0"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part001",
+      "size": 10485760,
+      "md5": "93c163ebc4f77a67b7ad8f2c8c4732a8"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part002",
+      "size": 10485760,
+      "md5": "e72069b9b2899f4b91fca140495ad5af"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part003",
+      "size": 10485760,
+      "md5": "bc4b924d87fca7cb17e619a7bf567fb9"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part004",
+      "size": 10485760,
+      "md5": "ae24b088183d1a01e5716966ed719fac"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part005",
+      "size": 10485760,
+      "md5": "6f1e5063dbd54fbeddb864290c6b439b"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part006",
+      "size": 10485760,
+      "md5": "5e962071d6f1a12ef811bb1d4040bd99"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part007",
+      "size": 10485760,
+      "md5": "0528b58fa57a5f80d1844cb42a49be76"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part008",
+      "size": 10485760,
+      "md5": "7d45698c3d853eda0f3130cce4e8ac8c"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part009",
+      "size": 10485760,
+      "md5": "f792ffb9b8b4e1fe0bd96ad73ab143a2"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part010",
+      "size": 10485760,
+      "md5": "ec4d36c26646062ade4d848303d44ce1"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part011",
+      "size": 10485760,
+      "md5": "3925017356d87261a83dc9df034019be"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part012",
+      "size": 10485760,
+      "md5": "762a93216e6ea86cc2eaac0644e02145"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part013",
+      "size": 10485760,
+      "md5": "9ac3963db21aab6d952178bf49a37017"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part014",
+      "size": 10485760,
+      "md5": "61103390ea1c2fc84912ce472e8567fb"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part015",
+      "size": 10485760,
+      "md5": "db3ad04667b61cad2dd861926e9a0a36"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part016",
+      "size": 10485760,
+      "md5": "77ada827541ecf4a617db068e34a7d63"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part017",
+      "size": 10485760,
+      "md5": "0c68b5802813fd8cedd223927e6e8df4"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part018",
+      "size": 10485760,
+      "md5": "615e278f6153dda7c92cc351ca5a183a"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part019",
+      "size": 10485760,
+      "md5": "71dc2aac60267e67a5517068753224ff"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part020",
+      "size": 10485760,
+      "md5": "4af1a6411077db7d981e8cfa11bd7f09"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part021",
+      "size": 10485760,
+      "md5": "0305633d2afea4e870185a3008d4753c"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part022",
+      "size": 10485760,
+      "md5": "771c135044af6336e6341e4cb14a34b4"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part023",
+      "size": 10485760,
+      "md5": "1ec13a927cbc3e149d4cb13a28ec1557"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part024",
+      "size": 10485760,
+      "md5": "76cde773528a73108991f74b56bbe2a9"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part025",
+      "size": 10485760,
+      "md5": "7f2bd9eac7fbb91c24c39555185628f5"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part026",
+      "size": 10485760,
+      "md5": "86ef78d1f4b4e8d9c77f7ac72cf41659"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part027",
+      "size": 10485760,
+      "md5": "d43b89b692491cf6dae0c275dbafb471"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part028",
+      "size": 10485760,
+      "md5": "a93631bd261baf193a2fdb3aa1ffd7ba"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part029",
+      "size": 10485760,
+      "md5": "44a232bc2c5bccdd3524af2c22ac24c9"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part030",
+      "size": 10485760,
+      "md5": "d9fa9582b3cdbd6d1e71013ae60f969d"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part031",
+      "size": 10485760,
+      "md5": "63937e61ad0be2f7c9af53131221c270"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part032",
+      "size": 10485760,
+      "md5": "95ae5cad35ba48d1ed9efb5c2d5327d9"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part033",
+      "size": 10485760,
+      "md5": "9b1304b431cb5e676739a16a56cb8055"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part034",
+      "size": 10485760,
+      "md5": "be22e856eedfd8989b2a95a1db84c11a"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part035",
+      "size": 10485760,
+      "md5": "7d970fed4441eb10278c642b8e59f5fc"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part036",
+      "size": 10485760,
+      "md5": "a7acd62662f1ca6755a806e62e19e6ed"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part037",
+      "size": 10485760,
+      "md5": "4ae6f1670857e4d40705085fcc6a78ff"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part038",
+      "size": 10485760,
+      "md5": "a5301265161d4766656380ff1e5b12a4"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part039",
+      "size": 10485760,
+      "md5": "f346fdd46141e343073d16804b5feb37"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part040",
+      "size": 10485760,
+      "md5": "9f3e41e83e8c97859b93dc5cb15e6bca"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part041",
+      "size": 10485760,
+      "md5": "7b71fca3e2e154473ce2aa980c5b3cc2"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part042",
+      "size": 10485760,
+      "md5": "8c390be0781a5d90c0b283a8b40a0ef7"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part043",
+      "size": 10485760,
+      "md5": "31a8d8e920f066888c444c23878302e4"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part044",
+      "size": 10485760,
+      "md5": "622fbcb98d993725efb6d4ede133bb6a"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part045",
+      "size": 10485760,
+      "md5": "1fa7d32ba1b70d729efed9a2c5118ad1"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part046",
+      "size": 10485760,
+      "md5": "ca1510074f5b24c842b3038ff1b77431"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part047",
+      "size": 10485760,
+      "md5": "21f7be806df8314be58a9160d8f1eecb"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part048",
+      "size": 10485760,
+      "md5": "0597d420336eb0ffafb7f6968bcfa21b"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part049",
+      "size": 10485760,
+      "md5": "18723ac165ccfc533cd6b50cfd73e699"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part050",
+      "size": 10485760,
+      "md5": "2e08137fc7b7c84e42349066f8fb5477"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part051",
+      "size": 10485760,
+      "md5": "8fde9c86ca38d5ced4811a13376b1c9c"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part052",
+      "size": 10485760,
+      "md5": "a001ebe5b436cf97cb5a89899f63b663"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part053",
+      "size": 10485760,
+      "md5": "558ded528b8b5bcc46b9e98e3884b486"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part054",
+      "size": 10485760,
+      "md5": "93d9ebad3286493a4c8f166a5e0a5540"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part055",
+      "size": 10485760,
+      "md5": "3e6fdf1e32f0db9955416d6856f48cf1"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part056",
+      "size": 10485760,
+      "md5": "c0d148d12334a9382e477745086c4e69"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part057",
+      "size": 10485760,
+      "md5": "e17bb241b25418ae41f40c34839d1ba8"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part058",
+      "size": 10485760,
+      "md5": "9da7cffee2b4937c3998fe797894d99a"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part059",
+      "size": 10485760,
+      "md5": "e43faba43b2608ea9425ba05af43c0f4"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part060",
+      "size": 10485760,
+      "md5": "d8db9f1221a3b6b958f7ccd310d97d23"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part061",
+      "size": 10485760,
+      "md5": "9d70b11afa546ab1e17d15f841ae5eaa"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part062",
+      "size": 10485760,
+      "md5": "ddc2347a5cb718ed434b720c277180e9"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part063",
+      "size": 10485760,
+      "md5": "aa369fe980b5d9bce0136a038ea34378"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part064",
+      "size": 10485760,
+      "md5": "42e0f80ebacde159b2c85e0cb966a43a"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part065",
+      "size": 10485760,
+      "md5": "70f58656300c8bd3f864927beda84bf9"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part066",
+      "size": 10485760,
+      "md5": "c459ab1fc89d128875f0f5babd2d8c32"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part067",
+      "size": 10485760,
+      "md5": "e0e2d4aea9fc542300a28571e5954daf"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part068",
+      "size": 10485760,
+      "md5": "eda5f5173a75c4d6fbea1b6f816a77f0"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part069",
+      "size": 10485760,
+      "md5": "598031581907c3ad6eae3088bbfa46bb"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part070",
+      "size": 10485760,
+      "md5": "ae7481d43b4feff3c8d1f0e55bf6f85a"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part071",
+      "size": 10485760,
+      "md5": "b4a8278783c27600d0e17a06aec9499b"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part072",
+      "size": 10485760,
+      "md5": "8d1857c1617f66cd3a84f70be7d456ee"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part073",
+      "size": 10485760,
+      "md5": "37cdd0903e5df0656d3d440d9fa6b557"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part074",
+      "size": 10485760,
+      "md5": "94dfb2f2f89e1a80c88a6e9fdcbdf353"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part075",
+      "size": 10485760,
+      "md5": "2e1b363f30a7e6f2d34fe37758215647"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part076",
+      "size": 10485760,
+      "md5": "87bddd04bb06576b2e849069c0da52c1"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part077",
+      "size": 10485760,
+      "md5": "a2232d615fd6f1434fc309a6f1f27e81"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part078",
+      "size": 10485760,
+      "md5": "346a1c3dd31676ac3f8f75deb0588fca"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part079",
+      "size": 10485760,
+      "md5": "242b3e226a77d4500b25297843069abd"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part080",
+      "size": 10485760,
+      "md5": "e42ad8d2779e8f1cb257149c1565bd2f"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part081",
+      "size": 10485760,
+      "md5": "2566426acd17868ad344150bf26d45bd"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part082",
+      "size": 10485760,
+      "md5": "9469eff49abcbc0b0fb31b786b913a4a"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part083",
+      "size": 10485760,
+      "md5": "1eb299f16c5f8ec7d57b7770c59ab55a"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part084",
+      "size": 10485760,
+      "md5": "c71e7df4f049a7939a661a99bb545647"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part085",
+      "size": 10485760,
+      "md5": "a546902e686ce7f3a1dadd6dfffd72bc"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part086",
+      "size": 10485760,
+      "md5": "672c4f51a06ca10db2cbc80fa2025771"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part087",
+      "size": 10485760,
+      "md5": "fa19e313c4ed27c4f964526e5dc3ef42"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part088",
+      "size": 10485760,
+      "md5": "6f7a4f590641f843a7978315e3dc6d3c"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part089",
+      "size": 10485760,
+      "md5": "35c55a96ee2e176922bc8a0db628b138"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part090",
+      "size": 10485760,
+      "md5": "d4a285a1d07eb72530acbf40ac786105"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part091",
+      "size": 10485760,
+      "md5": "b88af2d648a95b598d0b12bc18ebfc8b"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part092",
+      "size": 10485760,
+      "md5": "208e31ba27c07ea056fbbde3bf7339c1"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part093",
+      "size": 10485760,
+      "md5": "6e6be60dac5cf27115c2785e3c2a657d"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part094",
+      "size": 10485760,
+      "md5": "a94406c6fd266db05112879e8e397377"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part095",
+      "size": 10485760,
+      "md5": "6b62f21bd676d5deb9f2bc852ca1aa72"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part096",
+      "size": 10485760,
+      "md5": "9d1d3f31ec94e490673aa868846d3075"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part097",
+      "size": 10485760,
+      "md5": "7dee4b5757c3cb6786012ee9d0f92704"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part098",
+      "size": 10485760,
+      "md5": "e4e31a160cf9ca91376c4156863c688f"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part099",
+      "size": 10485760,
+      "md5": "ee37cc7faefaead6edc15ac40f2b966a"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part100",
+      "size": 10485760,
+      "md5": "379fade1949c622026d6b641ae6b5372"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part101",
+      "size": 10485760,
+      "md5": "42f859f047dee3359cd592b952b499ee"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part102",
+      "size": 10485760,
+      "md5": "e49d5fc68b0e78b6831ed3f025c7946d"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part103",
+      "size": 10485760,
+      "md5": "d721c587c21cc1a63705e5c9637abb3d"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part104",
+      "size": 10485760,
+      "md5": "7ef036c3a822c55dd11c1f1d748e4c61"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part105",
+      "size": 10485760,
+      "md5": "d582f02c53bc851b99ad5066702286c5"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part106",
+      "size": 10485760,
+      "md5": "43dd0446772bc8e9f817be05c9a75d82"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part107",
+      "size": 10485760,
+      "md5": "3f82d40b108fc8a7160940dae7b6ea64"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part108",
+      "size": 10485760,
+      "md5": "ed73e978951b5cb275379cc76161ec04"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part109",
+      "size": 10485760,
+      "md5": "da741372d7959ac79e5f73be80b3856c"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part110",
+      "size": 10485760,
+      "md5": "39d1ad00c6ac1dd34c03058c16256f87"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part111",
+      "size": 10485760,
+      "md5": "a490dfd0faea05fd46addac7aef43b1b"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part112",
+      "size": 10485760,
+      "md5": "7af71306bf8d5d03a6e3f6f1646c8c85"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part113",
+      "size": 10485760,
+      "md5": "0d6512ae833aba69348c3c54b2a4b882"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part114",
+      "size": 10485760,
+      "md5": "8fe2ed5e045cf13ccce21fe922eacb56"
+    },
+    {
+      "name": "lego-harry-potter-years-1-4-europe-enfrdeesitda-v2-01.zip.part115",
+      "size": 3857102,
+      "md5": "ced065710e2f01e4d4e94e3dbf5d3a0f"
+    }
+  ]
+}
