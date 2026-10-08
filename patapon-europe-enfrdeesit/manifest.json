@@ -1,0 +1,116 @@
+{
+  "name": "Patapon (Europe) (EnFrDeEsIt)",
+  "system": "psp",
+  "file": "patapon-europe-enfrdeesit.zip",
+  "size": 220198796,
+  "md5": "37770bfd29088ad37fabc1d15a41872c",
+  "uncompressedSize": 354844672,
+  "partSize": 10485760,
+  "parts": [
+    {
+      "name": "patapon-europe-enfrdeesit.zip.part000",
+      "size": 10485760,
+      "md5": "85ee9f6e2f8a9668975750d83233639c"
+    },
+    {
+      "name": "patapon-europe-enfrdeesit.zip.part001",
+      "size": 10485760,
+      "md5": "de45c7ed091b3de4c796e537b56a9065"
+    },
+    {
+      "name": "patapon-europe-enfrdeesit.zip.part002",
+      "size": 10485760,
+      "md5": "f44656d5366ae7e5739bbfc77a7032bf"
+    },
+    {
+      "name": "patapon-europe-enfrdeesit.zip.part003",
+      "size": 10485760,
+      "md5": "bc1d78d6b1c7da0312e13b5b66480656"
+    },
+    {
+      "name": "patapon-europe-enfrdeesit.zip.part004",
+      "size": 10485760,
+      "md5": "a29d033cb3bdf1c7aa164733c19673ac"
+    },
+    {
+      "name": "patapon-europe-enfrdeesit.zip.part005",
+      "size": 10485760,
+      "md5": "59dd3fbb75df56a9bd38defa84d773be"
+    },
+    {
+      "name": "patapon-europe-enfrdeesit.zip.part006",
+      "size": 10485760,
+      "md5": "4a38caa22e26bbd93a72a4537354f6fd"
+    },
+    {
+      "name": "patapon-europe-enfrdeesit.zip.part007",
+      "size": 10485760,
+      "md5": "b2064d9e86610accb4913f23a151ea2c"
+    },
+    {
+      "name": "patapon-europe-enfrdeesit.zip.part008",
+      "size": 10485760,
+      "md5": "57d55653ab0ad79214fb78ddd4e7d594"
+    },
+    {
+      "name": "patapon-europe-enfrdeesit.zip.part009",
+      "size": 10485760,
+      "md5": "cbbf62f1d9dcd22e4e474044a9dad5c4"
+    },
+    {
+      "name": "patapon-europe-enfrdeesit.zip.part010",
+      "size": 10485760,
+      "md5": "348217805146965760ea65c59b4e1b6d"
+    },
+    {
+      "name": "patapon-europe-enfrdeesit.zip.part011",
+      "size": 10485760,
+      "md5": "627a81bb49a8956d298d587dfae39d64"
+    },
+    {
+      "name": "patapon-europe-enfrdeesit.zip.part012",
+      "size": 10485760,
+      "md5": "3407f3f65022474791b15012ef32a603"
+    },
+    {
+      "name": "patapon-europe-enfrdeesit.zip.part013",
+      "size": 10485760,
+      "md5": "3bb8da93ae8eed6ab8adef45f5d09a98"
+    },
+    {
+      "name": "patapon-europe-enfrdeesit.zip.part014",
+      "size": 10485760,
+      "md5": "3e0bace003c9c3da504e4b315ed8ccf7"
+    },
+    {
+      "name": "patapon-europe-enfrdeesit.zip.part015",
+      "size": 10485760,
+      "md5": "5914efaa2670a40b80387f1aeda5a5cd"
+    },
+    {
+      "name": "patapon-europe-enfrdeesit.zip.part016",
+      "size": 10485760,
+      "md5": "8cda53aabcc04e23a3515357f9755cbe"
+    },
+    {
+      "name": "patapon-europe-enfrdeesit.zip.part017",
+      "size": 10485760,
+      "md5": "75260904edacfcea7a8a6f2181d1088f"
+    },
+    {
+      "name": "patapon-europe-enfrdeesit.zip.part018",
+      "size": 10485760,
+      "md5": "fb25eb3ce66079d982a8a13d9428419f"
+    },
+    {
+      "name": "patapon-europe-enfrdeesit.zip.part019",
+      "size": 10485760,
+      "md5": "6f02d51cdde6fb5e318966786aa94c12"
+    },
+    {
+      "name": "patapon-europe-enfrdeesit.zip.part020",
+      "size": 10483596,
+      "md5": "b41959af42fe01616b9b5a57c62cc4f7"
+    }
+  ]
+}
