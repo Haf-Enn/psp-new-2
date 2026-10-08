@@ -1,0 +1,536 @@
+{
+  "name": "Justice League Heroes (Europe) (EnFrDeEsIt)",
+  "system": "psp",
+  "file": "justice-league-heroes-europe-enfrdeesit.zip",
+  "size": 1099823808,
+  "md5": "b80205fe9709f6aa1a4da581e5d89eb4",
+  "uncompressedSize": 1442086912,
+  "partSize": 10485760,
+  "parts": [
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part000",
+      "size": 10485760,
+      "md5": "644748063273afb5f65c74262752a3b6"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part001",
+      "size": 10485760,
+      "md5": "316c26eaaeb1ad6b0c37dcfbfbf0bf12"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part002",
+      "size": 10485760,
+      "md5": "e7a2af86cce2b630707b6f229aebf80f"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part003",
+      "size": 10485760,
+      "md5": "ad497f695586ed585a6da0bd849f07ec"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part004",
+      "size": 10485760,
+      "md5": "750911e881affd9a66023b3351050d7b"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part005",
+      "size": 10485760,
+      "md5": "0af9e8746bcd31ee6e99ea16f75e1f93"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part006",
+      "size": 10485760,
+      "md5": "fc03649172eb4b68acbd1b887da02fd5"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part007",
+      "size": 10485760,
+      "md5": "0ea59594afc224eacfa167b4333b3c80"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part008",
+      "size": 10485760,
+      "md5": "d0626aec7f6c64160e91b55175250e1e"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part009",
+      "size": 10485760,
+      "md5": "a434c673753f832c6879a89a57e7d4b7"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part010",
+      "size": 10485760,
+      "md5": "9ad33559fe032e761cbf92581acefe94"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part011",
+      "size": 10485760,
+      "md5": "c19a1d4c21ce16751bc109d39ee0f36c"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part012",
+      "size": 10485760,
+      "md5": "a98a15e10aeeac859fb714329c5d4475"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part013",
+      "size": 10485760,
+      "md5": "dfd259fb083759a278d8650572ab3188"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part014",
+      "size": 10485760,
+      "md5": "309422770767684dbf6736d7412ec7b3"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part015",
+      "size": 10485760,
+      "md5": "a6a52e6ce90071f8781cd41eadfdbfbc"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part016",
+      "size": 10485760,
+      "md5": "67193c9ac1248aa5c47e8160924fdc3a"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part017",
+      "size": 10485760,
+      "md5": "1fe52597a0d784ca8372a9e63a25c2f3"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part018",
+      "size": 10485760,
+      "md5": "8ec609419ee38400bdca05d1e331c060"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part019",
+      "size": 10485760,
+      "md5": "f9e8b4ecef8c558f4f69c2aaafd7dcd2"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part020",
+      "size": 10485760,
+      "md5": "9dca311a7ae51c1ef6c9dac9db6b5ddd"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part021",
+      "size": 10485760,
+      "md5": "1e0011cf8e1c254f0b30429f6cadd00a"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part022",
+      "size": 10485760,
+      "md5": "3185d73ec406dacf46f96784fd7ea930"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part023",
+      "size": 10485760,
+      "md5": "adc67f2d70b2c27b47a9872baae4efaa"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part024",
+      "size": 10485760,
+      "md5": "2194dcf82d3afb20a450da9d6c2be5a6"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part025",
+      "size": 10485760,
+      "md5": "ce7ef17bd834436640352b8f6c70a2fb"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part026",
+      "size": 10485760,
+      "md5": "312ed6acfe8fd7f9f3f77cfadd25e2ff"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part027",
+      "size": 10485760,
+      "md5": "49efef67ca90ee17e02be01be039f516"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part028",
+      "size": 10485760,
+      "md5": "ad19ddf75970ef843ecda7aa2de341c1"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part029",
+      "size": 10485760,
+      "md5": "4f6690afa7c35992d9b4a2464c061999"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part030",
+      "size": 10485760,
+      "md5": "ddd3b315b9ff30197c5db317054c2146"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part031",
+      "size": 10485760,
+      "md5": "0959bc48a2dcea309402bbe5da566bf4"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part032",
+      "size": 10485760,
+      "md5": "5f0610d413fb11a3154b02d8837e4970"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part033",
+      "size": 10485760,
+      "md5": "777a6cc8457a98a71b0e98c53b37df5e"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part034",
+      "size": 10485760,
+      "md5": "506ed9928858cb772d32b07f5391d27c"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part035",
+      "size": 10485760,
+      "md5": "1d69f7b95f0f333ffb85a04d7bdd6627"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part036",
+      "size": 10485760,
+      "md5": "ac1609b6769650dca584e8d64e9c3b37"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part037",
+      "size": 10485760,
+      "md5": "86b31f318c6d1c426cae8bfa6070df78"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part038",
+      "size": 10485760,
+      "md5": "80b56ed76aaa8a1eb07e57c298482c38"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part039",
+      "size": 10485760,
+      "md5": "0ef5cd671fb7f4573c5a5d45d56e3d9e"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part040",
+      "size": 10485760,
+      "md5": "96076fda4703b467bb66aa8fac087b1e"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part041",
+      "size": 10485760,
+      "md5": "0d21912eebb1d14aeb8932d41f1a2f27"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part042",
+      "size": 10485760,
+      "md5": "ee64b89fb6a8b26df0026922ef2fc54d"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part043",
+      "size": 10485760,
+      "md5": "5ad6e17dafea48216b5859b972ae9192"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part044",
+      "size": 10485760,
+      "md5": "7ccb7519d277bca0a709a261c3a232cf"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part045",
+      "size": 10485760,
+      "md5": "be35ae453eb2f3092bb53d00efe25e54"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part046",
+      "size": 10485760,
+      "md5": "cece411eb0ff2172603ae49602625b93"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part047",
+      "size": 10485760,
+      "md5": "afdaea2703499adf6931e220b96bc282"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part048",
+      "size": 10485760,
+      "md5": "edda12482a18893b6775207a9738deb1"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part049",
+      "size": 10485760,
+      "md5": "6260d0d2eb3e58370a996678c2595611"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part050",
+      "size": 10485760,
+      "md5": "23741ac73a1e05d1cb12a529fd44ba50"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part051",
+      "size": 10485760,
+      "md5": "b5d65b2c60dbc3769d18bbb9ca426538"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part052",
+      "size": 10485760,
+      "md5": "d9222b82311a32aa15756f79091274f2"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part053",
+      "size": 10485760,
+      "md5": "6aa4691acfc4aae2204a634ca5019407"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part054",
+      "size": 10485760,
+      "md5": "26a911536d46b8e9adf0d330ea03e5f2"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part055",
+      "size": 10485760,
+      "md5": "76906e3f88f9db1d6d2abd439e200686"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part056",
+      "size": 10485760,
+      "md5": "561a8cad6ecc8e5d1bc42a925a1aaffe"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part057",
+      "size": 10485760,
+      "md5": "450904f0f1604da683af7ea60a94d55a"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part058",
+      "size": 10485760,
+      "md5": "7036a191aee64881957e11007f0c246e"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part059",
+      "size": 10485760,
+      "md5": "b0a6590aa76c0e5df5fe83dd804f5d4f"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part060",
+      "size": 10485760,
+      "md5": "57c026e5aee4ac79669ba1edbdc81c33"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part061",
+      "size": 10485760,
+      "md5": "1eded32a80dc276a1385142399f65cff"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part062",
+      "size": 10485760,
+      "md5": "4340f6451c50376770ec20202854fd1a"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part063",
+      "size": 10485760,
+      "md5": "e74cfc92233cc38518b882b3745ad163"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part064",
+      "size": 10485760,
+      "md5": "3c532dd3362ced833e790a38d7199221"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part065",
+      "size": 10485760,
+      "md5": "3650cbe5e7f013ea572548c5485722bf"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part066",
+      "size": 10485760,
+      "md5": "82b1601e00ad1ba80ebe8be9d2fa20bd"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part067",
+      "size": 10485760,
+      "md5": "453a3b1be8dab287e244c58666bd97b4"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part068",
+      "size": 10485760,
+      "md5": "f35d1445f9c487d877b4211301d65ac6"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part069",
+      "size": 10485760,
+      "md5": "c7646f23d6513383b56c05672e1c2f41"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part070",
+      "size": 10485760,
+      "md5": "d9257c4f7a7bb3a43ecabb8d428fcba2"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part071",
+      "size": 10485760,
+      "md5": "3fb2e3ce487545a453e0ce8385746dba"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part072",
+      "size": 10485760,
+      "md5": "184c18d32f5cd1bdf8a7146bc94cd6e0"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part073",
+      "size": 10485760,
+      "md5": "8e25086bde674a5ca8e4ae3b156db854"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part074",
+      "size": 10485760,
+      "md5": "0cdfba48d5833e14896215903e9af621"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part075",
+      "size": 10485760,
+      "md5": "e3c51d74a2807570c7f6ef6a48198dee"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part076",
+      "size": 10485760,
+      "md5": "bdeaec6ab0b48aca415894a91c95eea4"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part077",
+      "size": 10485760,
+      "md5": "38f9fc0d59d096c66acabf0148d06ec9"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part078",
+      "size": 10485760,
+      "md5": "3021c69b3b8daeff317f9edbf9fc1248"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part079",
+      "size": 10485760,
+      "md5": "221de4eb337677a65a2e2c01ea11c751"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part080",
+      "size": 10485760,
+      "md5": "5ed907b60f33eec9cdca066d0b0fb48d"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part081",
+      "size": 10485760,
+      "md5": "0ea4944c2d7e52ed044dbef8882181ce"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part082",
+      "size": 10485760,
+      "md5": "fb5b6f0a4eb3437eeada15071c9c02d2"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part083",
+      "size": 10485760,
+      "md5": "d14efaed42d46762d7d9e583b2fdee16"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part084",
+      "size": 10485760,
+      "md5": "fcaa12854e92c310a77f27d7e4827d71"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part085",
+      "size": 10485760,
+      "md5": "1734a37c00f68b83f9e9d0c4a30facc5"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part086",
+      "size": 10485760,
+      "md5": "1ce9222ed09712958b41804424dc12e2"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part087",
+      "size": 10485760,
+      "md5": "43b3fffe897dd44c4b465f71d9378bf7"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part088",
+      "size": 10485760,
+      "md5": "b2c19b2e2185d23391373da1199560eb"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part089",
+      "size": 10485760,
+      "md5": "f8c9b874108685cfbe8df07f7632528b"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part090",
+      "size": 10485760,
+      "md5": "7b47f5e4316794de8758011839e753da"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part091",
+      "size": 10485760,
+      "md5": "c7c320f61bf9f0021bdf6db4ad59ccb2"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part092",
+      "size": 10485760,
+      "md5": "744615330478b90dc5d55029d2ed2cb4"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part093",
+      "size": 10485760,
+      "md5": "815e529e583ea98d662492086c82f529"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part094",
+      "size": 10485760,
+      "md5": "b5e3919a942fc13562311cfcaf8aae85"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part095",
+      "size": 10485760,
+      "md5": "93d405b6d79a66dad2e001804c0347db"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part096",
+      "size": 10485760,
+      "md5": "be09274c08f5bc868acaa4f673fed7a6"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part097",
+      "size": 10485760,
+      "md5": "0d400b0d787ed39ae0a448bbd71f6dd0"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part098",
+      "size": 10485760,
+      "md5": "1a38b73fc0a53a78fc78d46eea79facb"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part099",
+      "size": 10485760,
+      "md5": "612eb8c4e4ae82873151561b688a5471"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part100",
+      "size": 10485760,
+      "md5": "747e0dea9bd4ae8dc12b939e4af19cb6"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part101",
+      "size": 10485760,
+      "md5": "3ccadf11e70c507623cc55633af0e582"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part102",
+      "size": 10485760,
+      "md5": "9d6c73f9bbce74f24109e69fd7084e6b"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part103",
+      "size": 10485760,
+      "md5": "a0aef3999e93661644000d92cfe7bb2f"
+    },
+    {
+      "name": "justice-league-heroes-europe-enfrdeesit.zip.part104",
+      "size": 9304768,
+      "md5": "effb6c44edd395333f7a52cb24685f62"
+    }
+  ]
+}
