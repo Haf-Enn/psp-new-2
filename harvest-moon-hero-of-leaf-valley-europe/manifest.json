@@ -1,0 +1,86 @@
+{
+  "name": "Harvest Moon - Hero of Leaf Valley (Europe)",
+  "system": "psp",
+  "file": "harvest-moon-hero-of-leaf-valley-europe.zip",
+  "size": 156615174,
+  "md5": "72fc69a61b17f34126ab7e52144128ef",
+  "uncompressedSize": 422150144,
+  "partSize": 10485760,
+  "parts": [
+    {
+      "name": "harvest-moon-hero-of-leaf-valley-europe.zip.part000",
+      "size": 10485760,
+      "md5": "1fef684e0a3bd85b82240b6108647abd"
+    },
+    {
+      "name": "harvest-moon-hero-of-leaf-valley-europe.zip.part001",
+      "size": 10485760,
+      "md5": "bca2c9def5710fa7ed261fc762ab20ff"
+    },
+    {
+      "name": "harvest-moon-hero-of-leaf-valley-europe.zip.part002",
+      "size": 10485760,
+      "md5": "8d527c308b9f1c60eecca9473e79997b"
+    },
+    {
+      "name": "harvest-moon-hero-of-leaf-valley-europe.zip.part003",
+      "size": 10485760,
+      "md5": "679d87ddc41126ed515382b411f22f43"
+    },
+    {
+      "name": "harvest-moon-hero-of-leaf-valley-europe.zip.part004",
+      "size": 10485760,
+      "md5": "50d105bd1f8a8e58992335ce2bb93333"
+    },
+    {
+      "name": "harvest-moon-hero-of-leaf-valley-europe.zip.part005",
+      "size": 10485760,
+      "md5": "006cd12e0257ad684156b17044424422"
+    },
+    {
+      "name": "harvest-moon-hero-of-leaf-valley-europe.zip.part006",
+      "size": 10485760,
+      "md5": "e50c74cc414a8a706f647704228a988e"
+    },
+    {
+      "name": "harvest-moon-hero-of-leaf-valley-europe.zip.part007",
+      "size": 10485760,
+      "md5": "24281ea9712a7b6e6396146f463b5a50"
+    },
+    {
+      "name": "harvest-moon-hero-of-leaf-valley-europe.zip.part008",
+      "size": 10485760,
+      "md5": "2b3bfd59fc3bde0d1ef16f8c2fc1b4c7"
+    },
+    {
+      "name": "harvest-moon-hero-of-leaf-valley-europe.zip.part009",
+      "size": 10485760,
+      "md5": "f1dbf0fd54d7348babb160af29cc0922"
+    },
+    {
+      "name": "harvest-moon-hero-of-leaf-valley-europe.zip.part010",
+      "size": 10485760,
+      "md5": "1c677f7677052b35e96c8c889e3fcac2"
+    },
+    {
+      "name": "harvest-moon-hero-of-leaf-valley-europe.zip.part011",
+      "size": 10485760,
+      "md5": "024edd98ab2284e7c870c3bd65fc5f17"
+    },
+    {
+      "name": "harvest-moon-hero-of-leaf-valley-europe.zip.part012",
+      "size": 10485760,
+      "md5": "33767a2d6930c95c4f0eb7f45e50cac9"
+    },
+    {
+      "name": "harvest-moon-hero-of-leaf-valley-europe.zip.part013",
+      "size": 10485760,
+      "md5": "e5da8cf2dfe433e86e77d04bee708117"
+    },
+    {
+      "name": "harvest-moon-hero-of-leaf-valley-europe.zip.part014",
+      "size": 9814534,
+      "md5": "f9784f0331c1e23edb830917de009704"
+    }
+  ]
+}
