@@ -1,0 +1,316 @@
+{
+  "name": "Guilty Gear XX Accent Core Plus (Europe)",
+  "system": "psp",
+  "file": "guilty-gear-xx-accent-core-plus-europe.zip",
+  "size": 637124651,
+  "md5": "553eab08167470ff039b0680c00feb1c",
+  "uncompressedSize": 902266880,
+  "partSize": 10485760,
+  "parts": [
+    {
+      "name": "guilty-gear-xx-accent-core-plus-europe.zip.part000",
+      "size": 10485760,
+      "md5": "5a91bde702c69e4193a2286a4b9d454b"
+    },
+    {
+      "name": "guilty-gear-xx-accent-core-plus-europe.zip.part001",
+      "size": 10485760,
+      "md5": "ba6b3faa484db801b8aeef0e99eab2c8"
+    },
+    {
+      "name": "guilty-gear-xx-accent-core-plus-europe.zip.part002",
+      "size": 10485760,
+      "md5": "f39011dca07aeba094db623875c40edb"
+    },
+    {
+      "name": "guilty-gear-xx-accent-core-plus-europe.zip.part003",
+      "size": 10485760,
+      "md5": "c7d296fa412a417136eba5ad95333c9a"
+    },
+    {
+      "name": "guilty-gear-xx-accent-core-plus-europe.zip.part004",
+      "size": 10485760,
+      "md5": "25d98b51019eb7cd732683583aae9dc9"
+    },
+    {
+      "name": "guilty-gear-xx-accent-core-plus-europe.zip.part005",
+      "size": 10485760,
+      "md5": "f42dd76d48ba6e5e62bd13b8b79777d1"
+    },
+    {
+      "name": "guilty-gear-xx-accent-core-plus-europe.zip.part006",
+      "size": 10485760,
+      "md5": "48701a76666201464b506e302a1db8e1"
+    },
+    {
+      "name": "guilty-gear-xx-accent-core-plus-europe.zip.part007",
+      "size": 10485760,
+      "md5": "6154a1e47332ccff76e1996b646c8eec"
+    },
+    {
+      "name": "guilty-gear-xx-accent-core-plus-europe.zip.part008",
+      "size": 10485760,
+      "md5": "0209db982215798fe5a7cd5b8b9809c9"
+    },
+    {
+      "name": "guilty-gear-xx-accent-core-plus-europe.zip.part009",
+      "size": 10485760,
+      "md5": "8473024db1c851f8927dec8f7a053a17"
+    },
+    {
+      "name": "guilty-gear-xx-accent-core-plus-europe.zip.part010",
+      "size": 10485760,
+      "md5": "7b4016a69af30bfa09d432073874e15b"
+    },
+    {
+      "name": "guilty-gear-xx-accent-core-plus-europe.zip.part011",
+      "size": 10485760,
+      "md5": "dd25705fb06ff875e0bdaa2541832d65"
+    },
+    {
+      "name": "guilty-gear-xx-accent-core-plus-europe.zip.part012",
+      "size": 10485760,
+      "md5": "65246fcbe78d27e46587dc26d8179193"
+    },
+    {
+      "name": "guilty-gear-xx-accent-core-plus-europe.zip.part013",
+      "size": 10485760,
+      "md5": "62686f4cbb904fb571f0c0d503747f9a"
+    },
+    {
+      "name": "guilty-gear-xx-accent-core-plus-europe.zip.part014",
+      "size": 10485760,
+      "md5": "55a31cbce03967d5e21be6763acf44f5"
+    },
+    {
+      "name": "guilty-gear-xx-accent-core-plus-europe.zip.part015",
+      "size": 10485760,
+      "md5": "5d35244a0cfe8f0db8677ca091cf1146"
+    },
+    {
+      "name": "guilty-gear-xx-accent-core-plus-europe.zip.part016",
+      "size": 10485760,
+      "md5": "2bd1a40d5022fe5d5757bd1b2b0d384d"
+    },
+    {
+      "name": "guilty-gear-xx-accent-core-plus-europe.zip.part017",
+      "size": 10485760,
+      "md5": "725c076dbecd0e197c3b34ed9f80b7a7"
+    },
+    {
+      "name": "guilty-gear-xx-accent-core-plus-europe.zip.part018",
+      "size": 10485760,
+      "md5": "609aa5e399ccb6c7038e4db4aa28428d"
+    },
+    {
+      "name": "guilty-gear-xx-accent-core-plus-europe.zip.part019",
+      "size": 10485760,
+      "md5": "fe920a3f150acf20fc29d7bef72a6ecf"
+    },
+    {
+      "name": "guilty-gear-xx-accent-core-plus-europe.zip.part020",
+      "size": 10485760,
+      "md5": "a3654057386b6699f5fa952f6eda8f01"
+    },
+    {
+      "name": "guilty-gear-xx-accent-core-plus-europe.zip.part021",
+      "size": 10485760,
+      "md5": "a35a462e7056b2d4d2e590e6c699a313"
+    },
+    {
+      "name": "guilty-gear-xx-accent-core-plus-europe.zip.part022",
+      "size": 10485760,
+      "md5": "6ebc3a67d2ca9f8b457a40b49dcf0de1"
+    },
+    {
+      "name": "guilty-gear-xx-accent-core-plus-europe.zip.part023",
+      "size": 10485760,
+      "md5": "06e89294a452dff14ad674fc80423d8c"
+    },
+    {
+      "name": "guilty-gear-xx-accent-core-plus-europe.zip.part024",
+      "size": 10485760,
+      "md5": "4da234970540838bbe5766ae17f8f9c5"
+    },
+    {
+      "name": "guilty-gear-xx-accent-core-plus-europe.zip.part025",
+      "size": 10485760,
+      "md5": "0ff83b682e33ecd29f1c10b41ecdcc7c"
+    },
+    {
+      "name": "guilty-gear-xx-accent-core-plus-europe.zip.part026",
+      "size": 10485760,
+      "md5": "199b243fccf185fb71ea778b7a8480af"
+    },
+    {
+      "name": "guilty-gear-xx-accent-core-plus-europe.zip.part027",
+      "size": 10485760,
+      "md5": "b0813d3a52a1bc596c3d034bb3cd966f"
+    },
+    {
+      "name": "guilty-gear-xx-accent-core-plus-europe.zip.part028",
+      "size": 10485760,
+      "md5": "dfdf1bc7d0702e9975648db6f2c93143"
+    },
+    {
+      "name": "guilty-gear-xx-accent-core-plus-europe.zip.part029",
+      "size": 10485760,
+      "md5": "41ebc845def3602e069ada1a4c91e43e"
+    },
+    {
+      "name": "guilty-gear-xx-accent-core-plus-europe.zip.part030",
+      "size": 10485760,
+      "md5": "19bf0686d37f4c8a347c5548fd5be3d3"
+    },
+    {
+      "name": "guilty-gear-xx-accent-core-plus-europe.zip.part031",
+      "size": 10485760,
+      "md5": "94bce7e26e8e7221e27e1c4749c8a3c2"
+    },
+    {
+      "name": "guilty-gear-xx-accent-core-plus-europe.zip.part032",
+      "size": 10485760,
+      "md5": "37629a4f0642e3b27e517844bfe23c9e"
+    },
+    {
+      "name": "guilty-gear-xx-accent-core-plus-europe.zip.part033",
+      "size": 10485760,
+      "md5": "42adac893631299afe4fb5cad2f3caf8"
+    },
+    {
+      "name": "guilty-gear-xx-accent-core-plus-europe.zip.part034",
+      "size": 10485760,
+      "md5": "a5fe78f118dabb0a222b8eb832d90c4e"
+    },
+    {
+      "name": "guilty-gear-xx-accent-core-plus-europe.zip.part035",
+      "size": 10485760,
+      "md5": "64419853ea732c38ecceae00b281b72a"
+    },
+    {
+      "name": "guilty-gear-xx-accent-core-plus-europe.zip.part036",
+      "size": 10485760,
+      "md5": "a4c5d470fc71a83e1175bc91217820fb"
+    },
+    {
+      "name": "guilty-gear-xx-accent-core-plus-europe.zip.part037",
+      "size": 10485760,
+      "md5": "531a5a01c2ef30280a592b6e23f14a99"
+    },
+    {
+      "name": "guilty-gear-xx-accent-core-plus-europe.zip.part038",
+      "size": 10485760,
+      "md5": "40831f66f189891108f5d1ff0d1226d6"
+    },
+    {
+      "name": "guilty-gear-xx-accent-core-plus-europe.zip.part039",
+      "size": 10485760,
+      "md5": "ae22ac817c58b9f84f18a360a9c94fbe"
+    },
+    {
+      "name": "guilty-gear-xx-accent-core-plus-europe.zip.part040",
+      "size": 10485760,
+      "md5": "49f605f49dc003351b5b7d1f3f37c4eb"
+    },
+    {
+      "name": "guilty-gear-xx-accent-core-plus-europe.zip.part041",
+      "size": 10485760,
+      "md5": "5f15063b09ca911475f9099cd7904515"
+    },
+    {
+      "name": "guilty-gear-xx-accent-core-plus-europe.zip.part042",
+      "size": 10485760,
+      "md5": "c0568c13644e85852421d165bb5eea9c"
+    },
+    {
+      "name": "guilty-gear-xx-accent-core-plus-europe.zip.part043",
+      "size": 10485760,
+      "md5": "a56f0aec7d822176816578e2bc39c72e"
+    },
+    {
+      "name": "guilty-gear-xx-accent-core-plus-europe.zip.part044",
+      "size": 10485760,
+      "md5": "d73375dc4e3b53f34c1c4e4d9e24d8b6"
+    },
+    {
+      "name": "guilty-gear-xx-accent-core-plus-europe.zip.part045",
+      "size": 10485760,
+      "md5": "68376b6a8b31d8d5af5b1c950d7f8ad7"
+    },
+    {
+      "name": "guilty-gear-xx-accent-core-plus-europe.zip.part046",
+      "size": 10485760,
+      "md5": "8e8eac6d14215151dbdad98e180de470"
+    },
+    {
+      "name": "guilty-gear-xx-accent-core-plus-europe.zip.part047",
+      "size": 10485760,
+      "md5": "58aa1e9e19a1c342349f9906fbdc1cb4"
+    },
+    {
+      "name": "guilty-gear-xx-accent-core-plus-europe.zip.part048",
+      "size": 10485760,
+      "md5": "831078ea273c0cd1a0ddf87a8dceca79"
+    },
+    {
+      "name": "guilty-gear-xx-accent-core-plus-europe.zip.part049",
+      "size": 10485760,
+      "md5": "d80221760fde973f90eddaf7761a8da6"
+    },
+    {
+      "name": "guilty-gear-xx-accent-core-plus-europe.zip.part050",
+      "size": 10485760,
+      "md5": "479451044221991f6df152d64f7affca"
+    },
+    {
+      "name": "guilty-gear-xx-accent-core-plus-europe.zip.part051",
+      "size": 10485760,
+      "md5": "d751acd99d10536ce9ac373a9fd6e8f9"
+    },
+    {
+      "name": "guilty-gear-xx-accent-core-plus-europe.zip.part052",
+      "size": 10485760,
+      "md5": "8da1183d30e398836192ee4948a3df9d"
+    },
+    {
+      "name": "guilty-gear-xx-accent-core-plus-europe.zip.part053",
+      "size": 10485760,
+      "md5": "18daa165f2fcf7860375d6f1845f0746"
+    },
+    {
+      "name": "guilty-gear-xx-accent-core-plus-europe.zip.part054",
+      "size": 10485760,
+      "md5": "d9edfce252f0e88767d25f6e7dbf49a8"
+    },
+    {
+      "name": "guilty-gear-xx-accent-core-plus-europe.zip.part055",
+      "size": 10485760,
+      "md5": "6ca89c44422af8b5e8eccc6dda0d4554"
+    },
+    {
+      "name": "guilty-gear-xx-accent-core-plus-europe.zip.part056",
+      "size": 10485760,
+      "md5": "eace5ea1be536fd10147b42bd5dff67f"
+    },
+    {
+      "name": "guilty-gear-xx-accent-core-plus-europe.zip.part057",
+      "size": 10485760,
+      "md5": "eaa1f48182026a561e8c70bc0c41afd7"
+    },
+    {
+      "name": "guilty-gear-xx-accent-core-plus-europe.zip.part058",
+      "size": 10485760,
+      "md5": "3547112d4dbc16395a31db7d780d981e"
+    },
+    {
+      "name": "guilty-gear-xx-accent-core-plus-europe.zip.part059",
+      "size": 10485760,
+      "md5": "7b50a2dd8cff1af3b893ad31cd282850"
+    },
+    {
+      "name": "guilty-gear-xx-accent-core-plus-europe.zip.part060",
+      "size": 7979051,
+      "md5": "58ae064432e0adf5be3b9970125d258d"
+    }
+  ]
+}
